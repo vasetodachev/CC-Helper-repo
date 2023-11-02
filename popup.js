@@ -1,6 +1,6 @@
 const names = ["Vasil", "Lilly", "Atanas", "Stefan", "Panayot", "Nikol"];
-const nameList = document.getElementById("nameList");
-const resetButton = document.getElementById("resetButton");
+const nameList = document.getElementById("nameList-CC-Helper");
+const resetButton = document.getElementById("resetButton-CC-Helper");
 
 // Initialize name counters
 const counters = {};

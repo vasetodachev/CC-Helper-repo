@@ -42,11 +42,11 @@
   color: #fff;
 }
 .resetButton-CC-Helper{
-    background-color: #1b004e; /* Red background color */
-    color: #fff; /* White text color */
+    background-color: #1b004e; 
+    color: #fff; 
     border: none;
     border-radius: 20px;
-    padding: 10px 20px; /* Adjusted padding for a nice button size */
+    padding: 10px 20px; 
     cursor: pointer;
     transition: background-color 0.3s;
     font-family: Quicksand;
